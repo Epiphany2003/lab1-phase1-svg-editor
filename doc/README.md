@@ -3,6 +3,8 @@ author: qw
 last_modified_by: qw
 ---
 
+Git 仓库：[Epiphany2003/lab1-phase1-svg-editor](https://github.com/Epiphany2003/lab1-phase1-svg-editor)
+
 # 架构方案
 
 ## 模块划分
